@@ -1,0 +1,14 @@
+.books-container{
+	width:100%;
+	overflow-y: hidden;
+	background-color:gainsboro;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+tr,th{
+	text-align: center;
+}
+label{
+	display: inline-block;
+	padding-right: 10px;
+}

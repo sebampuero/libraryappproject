@@ -1,0 +1,11 @@
+.contents{
+	width:100%;
+	background-color: #ffffff;
+	overflow-y: hidden;
+}
+label{
+	margin-right: 5px;
+}
+.responsive-width{
+	font-size:2vw;
+}

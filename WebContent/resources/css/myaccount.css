@@ -1,0 +1,13 @@
+.error{
+	color:red;
+}
+.info_container{
+	margin-left: 10px;
+	flex:1;
+}
+.parent-container{
+	display:flex;
+}
+label,a{
+	margin-right: 5px;
+}

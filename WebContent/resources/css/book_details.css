@@ -1,0 +1,22 @@
+.book-container{
+	width:100%;
+}
+h2{
+	text-align:center !important;
+}
+h3{
+	text-align:center;
+	color: #6e6e6e;
+}
+.image{
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.loan{
+	margin-top: 5px;
+}
+label{
+	margin-right: 5px;
+	
+}
